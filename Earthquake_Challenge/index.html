@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Earthquake World Map</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="static/css/style.css">
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Earthquake World Map</title>
 
     <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-    crossorigin=""/>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+        integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+        crossorigin="" />
 
     <!-- d3 JavaScript -->
     <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -17,15 +29,27 @@
     <link rel="stylesheet" type="text/css" href="static/css/style.css">
 
 </head>
+
 <body>
+   
+</div>
+<!-- Background image -->
+    <!-- <div class="row"> -->
+        <div class="col-md-12 jumbotron text-center hero">
+            <h1 id="dashboard_title">Earthquake World Map</h1>
+            <h2 id="dashboard_p">Use the interactive map below to explore the earthquakes detected by the USGS during
+                the past 7 days</h2>
+            <h3 id="dashboard_p">The map has several layers to explore and you can zoom in and out</h3>
+        </div>
+    <!-- </div> -->
 
     <!-- The div that holds our map -->
     <div id="mapid"></div>
 
     <!-- Leaflet JavaScript -->
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-    crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
 
     <!-- API key -->
     <script type="text/javascript" src="static/js/config.js"></script>
@@ -33,6 +57,7 @@
     <!-- Our JavaScript cities was added and holds an array of the cities-->
     <!-- script type="text/javascript" src="static/js/cities.js"></script-->
     <script type="text/javascript" src="static/js/challenge_logic.js"></script>
-    
+
 </body>
+
 </html>
