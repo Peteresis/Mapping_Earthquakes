@@ -25,8 +25,9 @@ A popup marker with information about the location and magnitude of the earthqua
 The diameter and the color of a marker reflect the strength of the earthquake (darker color with larger diameter represent earthquakes with a higher magnitude).
 A legend with the context for the map.
 
-![Eartquake GIF map](https://user-images.githubusercontent.com/98360572/168451285-ea9ceaa1-cdc3-4871-b957-cf6adf3c9a5b.gif)
 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/98360572/168451364-4cf03a79-5fc2-4f23-8007-88eea6dc8b01.gif)
 
 ## View a demonstration in the live site
 [Live Demo](https://peteresis.github.io/earthquake_mapping_demo_site/) of Mapping Earthquakes
