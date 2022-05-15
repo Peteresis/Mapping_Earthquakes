@@ -33,9 +33,11 @@ The following figure shows the layers menu and the pop-up window.
 
 Below is a GIF animation showing the use of the site.  The image is a bit blurry due to filesize limitations on Github 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/98360572/168451364-4cf03a79-5fc2-4f23-8007-88eea6dc8b01.gif)
-<p>Do not forget to buy <mark>milk</mark> today.</p>
-## View a demonstration in the <mark>live site</mark>
-[Live Demo](https://peteresis.github.io/earthquake_mapping_demo_site/) of Mapping Earthquakes
+
+## View a demonstration in the live site
+
+| [Live Demo](https://peteresis.github.io/earthquake_mapping_demo_site/) of Mapping Earthquakes |
+| --- |
 
 The live site contains the API Key which can be publicly accessed but since the key was generated using a non-billable account, there is no financial risk.  For billable accounts, the API keys can be restricted by registering the pages from which they can be called at the moment of generating the API key in the Mapbox site.
 
@@ -46,6 +48,11 @@ The live site contains the API Key which can be publicly accessed but since the 
 > You can make your access tokens more secure by adding URL restrictions from the account dashboard tokens page or with the Tokens API. When you add URL restrictions to a token, that token will only work for requests to billable Mapbox services that originate from the URLs you specify. Requests from unauthorized URLs will return status code 403: Forbidden.
 > 
 > Tokens without restrictions will work for requests originating from any URL.
+
+
+## References
+
+https://courses.bootcampspot.com/courses/1145/pages/13-dot-0-1-visualizing-earthquake-data
 
 
 
