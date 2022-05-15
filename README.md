@@ -29,9 +29,11 @@ The layers and the additional elements can be toggled `on` or `off` by the user 
 If the user clicks on any of the circles, a pop-up window is shown indicating the magnitude and the location of the quake.
 
 The following figure shows the layers menu and the pop-up window.
+
 ![Pop-up](https://user-images.githubusercontent.com/98360572/168451817-28f5ac0b-15b2-44a9-b740-24a96e888a0c.png)
 
-Below is a GIF animation showing the use of the site.  The image is a bit blurry due to filesize limitations on Github 
+Below is a GIF animation showing the use of the site.  The image is a bit blurred due to filesize limitations on Github 
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/98360572/168451364-4cf03a79-5fc2-4f23-8007-88eea6dc8b01.gif)
 
 ## :three: View a demonstration in the live site
