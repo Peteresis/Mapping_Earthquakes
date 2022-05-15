@@ -33,8 +33,8 @@ The following figure shows the layers menu and the pop-up window.
 
 Below is a GIF animation showing the use of the site.  The image is a bit blurry due to filesize limitations on Github 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/98360572/168451364-4cf03a79-5fc2-4f23-8007-88eea6dc8b01.gif)
-
-## View a demonstration in the live site
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+## View a demonstration in the <mark>live site</mark>
 [Live Demo](https://peteresis.github.io/earthquake_mapping_demo_site/) of Mapping Earthquakes
 
 The live site contains the API Key which can be publicly accessed but since the key was generated using a non-billable account, there is no financial risk.  For billable accounts, the API keys can be restricted by registering the pages from which they can be called at the moment of generating the API key in the Mapbox site.
