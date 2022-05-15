@@ -42,8 +42,9 @@ The live site contains the API Key which can be publicly accessed but since the 
 Mapbox says that:
 
 > URL restrictions
+> 
 > You can make your access tokens more secure by adding URL restrictions from the account dashboard tokens page or with the Tokens API. When you add URL restrictions to a token, that token will only work for requests to billable Mapbox services that originate from the URLs you specify. Requests from unauthorized URLs will return status code 403: Forbidden.
-
+> 
 > Tokens without restrictions will work for requests originating from any URL.
 
 
