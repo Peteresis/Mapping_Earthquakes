@@ -34,7 +34,7 @@ The following figure shows the layers menu and the pop-up window.
 Below is a GIF animation showing the use of the site.  The image is a bit blurry due to filesize limitations on Github 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/98360572/168451364-4cf03a79-5fc2-4f23-8007-88eea6dc8b01.gif)
 
-## View a demonstration in the live site
+## :three: View a demonstration in the live site
 
 | [Live Demo](https://peteresis.github.io/earthquake_mapping_demo_site/) of Mapping Earthquakes |
 | --- |
@@ -50,10 +50,15 @@ The live site contains the API Key which can be publicly accessed but since the 
 > Tokens without restrictions will work for requests originating from any URL.
 
 
-## References
+## :four: References
 
-https://courses.bootcampspot.com/courses/1145/pages/13-dot-0-1-visualizing-earthquake-data
+**Module 13: Visualizing Earthquake Data**, https://courses.bootcampspot.com/courses/1145/pages/13-dot-0-1-visualizing-earthquake-data, :copyright: 2020-2021 Trilogy Education Services, Web 15 Apr 2022.
 
+**Token management**, https://docs.mapbox.com/accounts/guides/tokens/#url-restrictions
+
+**GeoJSON Summary Format**, https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+
+**Leaflet Quick Start Guide**, https://leafletjs.com/examples/quick-start/
 
 
 
