@@ -1,4 +1,4 @@
-# Module 13 Challenge: Mapping Earthquakes
+# Module 13 Challenge: Mapping Earthquakes 🌎
 ---
 This project uses Leaflet and JavaScript to create an interactive map that is displayed on a website
 
@@ -39,7 +39,7 @@ Below is a GIF animation showing the use of the site.  The image is a bit blurry
 
 The live site contains the API Key which can be publicly accessed but since the key was generated using a non-billable account, there is no financial risk.  For billable accounts, the API keys can be restricted by registering the pages from which they can be called at the moment of generating the API key in the Mapbox site.
 
-Mapbox says that:
+[Mapbox says that](https://docs.mapbox.com/accounts/guides/tokens/#:~:text=Contact%20support.-,URL%20restrictions,Tokens%20without%20restrictions%20will%20work%20for%20requests%20originating%20from%20any%20URL.,-403%20errors%20from):
 
 > URL restrictions
 > 
