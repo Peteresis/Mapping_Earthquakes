@@ -27,11 +27,27 @@ There are also three elements plotted on the map:
 The layers and the additional elements can be toggled `on` or `off` by the user visiting the site.  The map can be `zoomed in` and `zoomed out` or scrolled around.
 
 If the user clicks on any of the circles, a pop-up window is shown indicating the magnitude and the location of the quake.
+
+The following figure shows the layers menu and the pop-up window.
 ![Pop-up](https://user-images.githubusercontent.com/98360572/168451817-28f5ac0b-15b2-44a9-b740-24a96e888a0c.png)
 
-Below is a GIF animation showing the 
+Below is a GIF animation showing the use of the site.  The image is a bit blurry due to filesize limitations on Github 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/98360572/168451364-4cf03a79-5fc2-4f23-8007-88eea6dc8b01.gif)
 
 ## View a demonstration in the live site
 [Live Demo](https://peteresis.github.io/earthquake_mapping_demo_site/) of Mapping Earthquakes
- 
+
+The live site contains the API Key which can be publicly accessed but since the key was generated using a non-billable account, there is no financial risk.  For billable accounts, the API keys can be restricted by registering the pages from which they can be called at the moment of generating the API key in the Mapbox site.
+
+Mapbox says that:
+
+> URL restrictions
+> You can make your access tokens more secure by adding URL restrictions from the account dashboard tokens page or with the Tokens API. When you add URL restrictions to a token, that token will only work for requests to billable Mapbox services that originate from the URLs you specify. Requests from unauthorized URLs will return status code 403: Forbidden.
+
+> Tokens without restrictions will work for requests originating from any URL.
+
+
+
+
+
+
